@@ -114,7 +114,7 @@ A comparison of different embedding models based on Accuracy, Precision, Recall,
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/tugcantopaloglu/text-classification-sementic-search-nlp.git
     cd <your-repository-directory>
     ```
 2.  **Install Dependencies** (A GPU-accelerated environment is recommended):
