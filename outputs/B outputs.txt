@@ -1,0 +1,63 @@
+   Dataset    Embedding           Classifier  Accuracy  Precision    Recall  \
+0   ttc4900      BERTurk        Random Forest  0.836735   0.839976  0.836735   
+1   ttc4900      BERTurk                  SVM  0.882653   0.888998  0.882653   
+2   ttc4900      BERTurk  Logistic Regression  0.872449   0.875560  0.872449   
+3   ttc4900     e5-small        Random Forest  0.709184   0.724626  0.709184   
+4   ttc4900     e5-small                  SVM  0.780612   0.795202  0.780612   
+5   ttc4900     e5-small  Logistic Regression  0.775510   0.797919  0.775510   
+6   ttc4900         jina        Random Forest  0.841837   0.848502  0.841837   
+7   ttc4900         jina                  SVM  0.913265   0.916174  0.913265   
+8   ttc4900         jina  Logistic Regression  0.903061   0.906963  0.903061   
+9   ttc4900  Turkish-USE        Random Forest  0.826531   0.836124  0.826531   
+10  ttc4900  Turkish-USE                  SVM  0.836735   0.838548  0.836735   
+11  ttc4900  Turkish-USE  Logistic Regression  0.846939   0.850992  0.846939   
+12  ttc4900      T5-Base        Random Forest  0.801020   0.814564  0.801020   
+13  ttc4900      T5-Base                  SVM  0.846939   0.849416  0.846939   
+14  ttc4900      T5-Base  Logistic Regression  0.852041   0.860529  0.852041   
+15   trsav1      BERTurk        Random Forest  0.700000   0.709828  0.700000   
+16   trsav1      BERTurk                  SVM  0.760000   0.774986  0.760000   
+17   trsav1      BERTurk  Logistic Regression  0.700000   0.713286  0.700000   
+18   trsav1     e5-small        Random Forest  0.570000   0.583221  0.570000   
+19   trsav1     e5-small                  SVM  0.605000   0.623783  0.605000   
+20   trsav1     e5-small  Logistic Regression  0.615000   0.635215  0.615000   
+21   trsav1         jina        Random Forest  0.735000   0.732729  0.735000   
+22   trsav1         jina                  SVM  0.730000   0.729157  0.730000   
+23   trsav1         jina  Logistic Regression  0.735000   0.733987  0.735000   
+24   trsav1  Turkish-USE        Random Forest  0.705000   0.712951  0.705000   
+25   trsav1  Turkish-USE                  SVM  0.705000   0.707172  0.705000   
+26   trsav1  Turkish-USE  Logistic Regression  0.710000   0.717916  0.710000   
+27   trsav1      T5-Base        Random Forest  0.570000   0.572207  0.570000   
+28   trsav1      T5-Base                  SVM  0.660000   0.661323  0.660000   
+29   trsav1      T5-Base  Logistic Regression  0.670000   0.671783  0.670000   
+
+    F1 Score  
+0   0.836299  
+1   0.882044  
+2   0.872326  
+3   0.705160  
+4   0.779497  
+5   0.767381  
+6   0.837235  
+7   0.913299  
+8   0.902202  
+9   0.822628  
+10  0.835176  
+11  0.845715  
+12  0.800922  
+13  0.844826  
+14  0.851817  
+15  0.701531  
+16  0.760807  
+17  0.701434  
+18  0.562392  
+19  0.601297  
+20  0.611710  
+21  0.731833  
+22  0.724637  
+23  0.727788  
+24  0.694545  
+25  0.696464  
+26  0.706228  
+27  0.566882  
+28  0.659995  
+29  0.668656  

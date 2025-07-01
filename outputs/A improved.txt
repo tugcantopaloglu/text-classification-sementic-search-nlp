@@ -1,0 +1,312 @@
+Results for dataset: ttc4900
+
+  YTU-CE-COSMOS | Turkish Llama Results:
+    Zero-shot:
+      Recall: 0.3737
+      Accuracy: 0.3737
+      Precision: 0.3920
+      F1: 0.2273
+    3-shot:
+      Recall: 0.3897
+      Accuracy: 0.3897
+      Precision: 0.3036
+      F1: 0.2781
+    5-shot:
+      Recall: 0.2712
+      Accuracy: 0.2712
+      Precision: 0.1116
+      F1: 0.1300
+
+  GOOGLE | Gemma 2 Results:
+    Zero-shot:
+      Recall: 0.3531
+      Accuracy: 0.3531
+      Precision: 0.2539
+      F1: 0.2481
+    3-shot:
+      Recall: 0.4279
+      Accuracy: 0.4279
+      Precision: 0.3301
+      F1: 0.3064
+    5-shot:
+      Recall: 0.3117
+      Accuracy: 0.3117
+      Precision: 0.1241
+      F1: 0.1479
+
+  ASAFAYA | Kanarya Results:
+    Zero-shot:
+      Recall: 0.3649
+      Accuracy: 0.3649
+      Precision: 0.3851
+      F1: 0.2216
+    3-shot:
+      Recall: 0.3761
+      Accuracy: 0.3761
+      Precision: 0.2978
+      F1: 0.2709
+    5-shot:
+      Recall: 0.2686
+      Accuracy: 0.2686
+      Precision: 0.1119
+      F1: 0.1321
+
+  BIG SCIENCE | Bloom Results:
+    Zero-shot:
+      Recall: 0.3600
+      Accuracy: 0.3600
+      Precision: 0.3710
+      F1: 0.2182
+    3-shot:
+      Recall: 0.3731
+      Accuracy: 0.3731
+      Precision: 0.2880
+      F1: 0.2619
+    5-shot:
+      Recall: 0.2597
+      Accuracy: 0.2597
+      Precision: 0.1047
+      F1: 0.1244
+
+  Cohere AI | Aya Expanse Results:
+    Zero-shot:
+      Recall: 0.3036
+      Accuracy: 0.3036
+      Precision: 0.3164
+      F1: 0.1866
+    3-shot:
+      Recall: 0.3164
+      Accuracy: 0.3164
+      Precision: 0.2451
+      F1: 0.2250
+    5-shot:
+      Recall: 0.2213
+      Accuracy: 0.2213
+      Precision: 0.0896
+      F1: 0.1061
+
+  Wiro AI | LLM Results:
+    Zero-shot:
+      Recall: 0.2940
+      Accuracy: 0.2940
+      Precision: 0.3030
+      F1: 0.1775
+    3-shot:
+      Recall: 0.3048
+      Accuracy: 0.3048
+      Precision: 0.2349
+      F1: 0.2133
+    5-shot:
+      Recall: 0.2133
+      Accuracy: 0.2133
+      Precision: 0.0861
+      F1: 0.1022
+
+  Trendyol | LLM Results:
+    Zero-shot:
+      Recall: 0.3541
+      Accuracy: 0.3541
+      Precision: 0.3672
+      F1: 0.2142
+    3-shot:
+      Recall: 0.3650
+      Accuracy: 0.3650
+      Precision: 0.2841
+      F1: 0.2579
+    5-shot:
+      Recall: 0.2579
+      Accuracy: 0.2579
+      Precision: 0.1027
+      F1: 0.1224
+
+  KOC Digital | LLM Results:
+    Zero-shot:
+      Recall: 0.2411
+      Accuracy: 0.2411
+      Precision: 0.2516
+      F1: 0.1462
+    3-shot:
+      Recall: 0.2486
+      Accuracy: 0.2486
+      Precision: 0.1929
+      F1: 0.1763
+    5-shot:
+      Recall: 0.1763
+      Accuracy: 0.1763
+      Precision: 0.0693
+      F1: 0.0829
+
+  Veri US | LLM Results:
+    Zero-shot:
+      Recall: 0.3248
+      Accuracy: 0.3248
+      Precision: 0.3389
+      F1: 0.1957
+    3-shot:
+      Recall: 0.3349
+      Accuracy: 0.3349
+      Precision: 0.2603
+      F1: 0.2381
+    5-shot:
+      Recall: 0.2361
+      Accuracy: 0.2361
+      Precision: 0.0928
+      F1: 0.1110
+
+Results for dataset: trsav1
+
+  YTU-CE-COSMOS | Turkish Llama Results:
+    Zero-shot:
+      Recall: 0.2919
+      Accuracy: 0.2919
+      Precision: 0.3015
+      F1: 0.2623
+    3-shot:
+      Recall: 0.3272
+      Accuracy: 0.3272
+      Precision: 0.3117
+      F1: 0.2823
+    5-shot:
+      Recall: 0.2112
+      Accuracy: 0.2112
+      Precision: 0.2233
+      F1: 0.1905
+
+  GOOGLE | Gemma 2 Results:
+    Zero-shot:
+      Recall: 0.3008
+      Accuracy: 0.3008
+      Precision: 0.3106
+      F1: 0.2665
+    3-shot:
+      Recall: 0.3218
+      Accuracy: 0.3218
+      Precision: 0.3334
+      F1: 0.2798
+    5-shot:
+      Recall: 0.2352
+      Accuracy: 0.2352
+      Precision: 0.2303
+      F1: 0.2008
+
+  ASAFAYA | Kanarya Results:
+    Zero-shot:
+      Recall: 0.3075
+      Accuracy: 0.3075
+      Precision: 0.3064
+      F1: 0.2046
+    3-shot:
+      Recall: 0.3251
+      Accuracy: 0.3251
+      Precision: 0.2984
+      F1: 0.2806
+    5-shot:
+      Recall: 0.2312
+      Accuracy: 0.2312
+      Precision: 0.2289
+      F1: 0.2028
+
+  BIG SCIENCE | Bloom Results:
+    Zero-shot:
+      Recall: 0.2620
+      Accuracy: 0.2620
+      Precision: 0.2626
+      F1: 0.2312
+    3-shot:
+      Recall: 0.2945
+      Accuracy: 0.2945
+      Precision: 0.2928
+      F1: 0.2482
+    5-shot:
+      Recall: 0.2269
+      Accuracy: 0.2269
+      Precision: 0.2193
+      F1: 0.2010
+
+  Cohere AI | Aya Expanse Results:
+    Zero-shot:
+      Recall: 0.2971
+      Accuracy: 0.2971
+      Precision: 0.2972
+      F1: 0.2632
+    3-shot:
+      Recall: 0.3380
+      Accuracy: 0.3380
+      Precision: 0.3455
+      F1: 0.2907
+    5-shot:
+      Recall: 0.2413
+      Accuracy: 0.2413
+      Precision: 0.2427
+      F1: 0.2076
+
+  Wiro AI | LLM Results:
+    Zero-shot:
+      Recall: 0.2712
+      Accuracy: 0.2712
+      Precision: 0.2857
+      F1: 0.2445
+    3-shot:
+      Recall: 0.2942
+      Accuracy: 0.2942
+      Precision: 0.2977
+      F1: 0.2560
+    5-shot:
+      Recall: 0.1974
+      Accuracy: 0.1974
+      Precision: 0.2237
+      F1: 0.1820
+
+  Trendyol | LLM Results:
+    Zero-shot:
+      Recall: 0.2387
+      Accuracy: 0.2387
+      Precision: 0.2600
+      F1: 0.2156
+    3-shot:
+      Recall: 0.2699
+      Accuracy: 0.2699
+      Precision: 0.2714
+      F1: 0.2306
+    5-shot:
+      Recall: 0.1862
+      Accuracy: 0.1862
+      Precision: 0.1929
+      F1: 0.1658
+
+  KOC Digital | LLM Results:
+    Zero-shot:
+      Recall: 0.2864
+      Accuracy: 0.2864
+      Precision: 0.2768
+      F1: 0.2486
+    3-shot:
+      Recall: 0.3227
+      Accuracy: 0.3227
+      Precision: 0.3246
+      F1: 0.2681
+    5-shot:
+      Recall: 0.2036
+      Accuracy: 0.2036
+      Precision: 0.2145
+      F1: 0.1845
+
+  Veri US | LLM Results:
+    Zero-shot:
+      Recall: 0.2750
+      Accuracy: 0.2750
+      Precision: 0.2701
+      F1: 0.2447
+    3-shot:
+      Recall: 0.3015
+      Accuracy: 0.3015
+      Precision: 0.3090
+      F1: 0.2592
+    5-shot:
+      Recall: 0.2049
+      Accuracy: 0.2049
+      Precision: 0.2203
+      F1: 0.1860
+
+
+
